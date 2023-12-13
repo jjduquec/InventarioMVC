@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5B6CHY+Dj2md0zgXGhewzrRRKrnJgzRoAw6HPFJy3jhX+ug6/c/TUNsrEvZ/N8tuBAE4Prgd0/27NsnqGo2RsQ==",
+  "dgSpecHash": "+IPJEmGlFCvN/hPkz1Trm487rYhjl1L3i/a10jpAJWG0pPh+wPkPj813ruNtXzeI1QZspG2zvvRmz9HWVRN2eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\C#\\MVCInventarios\\MVCInventarios\\MVCInventarios.csproj",
+  "projectFilePath": "C:\\Users\\juanj\\Documents\\Net\\InventarioMVC\\MVCInventarios\\MVCInventarios.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
