@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCInventarios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5aab91f16d2df3dff2c2ae14b8742b6ff3e75217")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCInventarios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCInventarios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using MVCInventarios.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<InventariosContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("InventariosContext") ?? throw new InvalidOperationException("Connection string 'InventariosContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
