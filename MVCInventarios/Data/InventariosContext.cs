@@ -14,6 +14,8 @@ namespace MVCInventarios.Data
         {
         }
 
-        public DbSet<MVCInventarios.Models.Marca> Marca { get; set; } = default!;
+        public DbSet<Departamento>Departamentos { get; set; }
+        public DbSet<MVCInventarios.Models.Marca> Marcas { get; set; } = default!;
+        public DbSet<Producto> Productos { get; set; }
     }
 }
