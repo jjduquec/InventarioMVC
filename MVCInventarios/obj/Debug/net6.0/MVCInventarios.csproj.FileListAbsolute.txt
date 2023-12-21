@@ -531,3 +531,4 @@ C:\Users\admin\Documents\C#\Inventario\MVCInventarios\obj\Debug\net6.0\MVCInvent
 C:\Users\admin\Documents\C#\Inventario\MVCInventarios\obj\Debug\net6.0\MVCInventarios.genruntimeconfig.cache
 C:\Users\admin\Documents\C#\Inventario\MVCInventarios\obj\Debug\net6.0\ref\MVCInventarios.dll
 C:\Users\admin\Documents\C#\Inventario\MVCInventarios\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\juanj\Documents\Net\InventarioMVC\MVCInventarios\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll

@@ -22,6 +22,8 @@ namespace MVCInventarios.Controllers
         // GET: Marcas
         public async Task<IActionResult> Index()
         {
+
+
               return _context.Marcas != null ? 
                           View(await _context.Marcas.ToListAsync()) :
                           Problem("Entity set 'InventariosContext.Marca'  is null.");
